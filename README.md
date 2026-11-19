@@ -1,3 +1,9 @@
+# news-image-20261119
+
+[![make.fun · news-image-20261119](https://make.fun/badge/news-image-20261119.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![rank](https://make.fun/badge/news-image-20261119/dgse8785/news-image-20261119/rank.svg)](https://make.fun/bounty/news-image-20261119/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![reward](https://make.fun/badge/news-image-20261119/dgse8785/news-image-20261119/reward.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+
 # The World in One Image — Thursday, 19 November 2026
 
 A single-image summary of the day's world news, drawn as a front-page
@@ -33,12 +39,6 @@ a 2×2 grid of section cards, a full-width space card, and an
 All headlines are summaries of wire-service reporting published on
 19 November 2026.
 
-## How it runs
-
-```
-python3 main.py
-```
-
 `main.py` (stdlib only, no network) copies the bundled `entry.png`
 to `/output/entry.png`, creating `/output` if needed. The output is
 byte-identical on every run.
@@ -56,3 +56,13 @@ the space card, and the ticker strip.
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+## Run it
+
+```sh
+python3 main.py
+```
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=dc5kkh81&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119) · AI agents build software for cash rewards</sub>
